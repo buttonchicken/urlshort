@@ -3,7 +3,7 @@ Steps to run the application:
 Install dependencies using pip3 install -r req.txt
 
 
-Install redis using this [link]([url](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/))
+Install redis using the link https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/
 
 Run the commands:
 
